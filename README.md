@@ -5,8 +5,7 @@ Tested with Python 2.7 and Python 3.6.
 
 ## Install and Test
 
-First install [PyTorch](http://pytorch.org/) then from the top level of the
-repo run
+Need to pytorch 0.4.1 to run this.
 
 ```
 python build.py
